@@ -13,7 +13,7 @@ export default function Home() {
   const classesOptions = [
     "OFF TANK", "ARCANO ELEVADO", "ARCANO SILENCE", "MAIN HEALER",
     "RAIZ FERREA", "QUEBRAREINOS", "INCUBO", "BRUXO",
-    "DPS - Frost", "DPS - Fire", "DPS - Aguia", "DPS - Xbow"
+    "DPS - Frost", "DPS - Fire", "DPS - Aguia", "DPS - Xbow", "DPS - Foice de Cristal"
   ];
 
   async function handleSubmit(e) {
