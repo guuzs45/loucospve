@@ -87,7 +87,7 @@ export default function Home() {
         fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
         color: "#333"
       }}>
-        <h1 style={{ textAlign: "center", marginBottom: "20px" }}>DG Avalon<br />LOUCOS POR PVE</h1>
+        <h1 style={{ textAlign: "center", marginBottom: "20px" }}>DG Avalon<br /><br />Loucos por PvE</h1>
         <form onSubmit={handleSubmit}>
           <label style={{ display: "block", marginBottom: "8px" }}>
             Nome:
